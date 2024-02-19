@@ -1,0 +1,58 @@
+.pt-150{
+    padding-top: 150px;
+}
+.mb-20{
+    margin-bottom: 20px;
+}
+.mt-12{
+    margin-top:12px;
+}
+.table_style{
+    margin: 100px 20px 0 20px;
+}
+.mr-10{
+    margin-right: 10px;
+}
+.ml-20{
+    margin-left: 20px;
+}
+.mt-10{
+    margin-top: 10px;
+}
+.mb-10{
+    margin-bottom: 10px;
+}
+.logout.logout:hover{
+    color: #000;
+}
+.logout_text{
+   color:  #6c757d !important;
+   font-size: .875rem;
+}
+.dropdown-menu-lg{
+    text-align: center;
+    max-width: 150px !important;
+    min-width: 180px  !important;
+}
+.logout_text{
+    color: #000;
+}
+.tbl_btn{
+    height: 30px;
+    width: 70px;
+} 
+
+.dataTables_wrapper .dataTables_paginate .paginate_button:hover{
+    background: none !important;
+    border: none;
+}
+.special{
+    font-size: 12px;
+    color: red;
+}
+.pad-t-4{
+    padding-top:4px;
+}
+.fa_table_icon{
+    padding-top: 5px;
+}
